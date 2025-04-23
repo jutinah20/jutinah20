@@ -1,12 +1,6 @@
-- 👋 Hi, I’m Juliana Holanda, very meet you;
-- 👀 I’m interested in photografy, bodybuilder and musculation gym... is life for me;
-- 🌱 I’m currently learning speak and conversation english, i'm loving learn software developer;
-- 💞️ I’m looking to collaborate on me learng technolog of the information;
-- 📫 How to reach me for direct on instagram @_juhollanda or whatsapp;
-- 😄 Pronouns: she, unly she;
-- ⚡ Fun fact: i'm bilateral hearing loss;
+Olá, seja bem-vindo(a) ao meu GitHub!
 
-<!---
-jutinah20/jutinah20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Juliana Holanda e atualmente estou cursando Gestão da Tecnologia da Informação (GTI).
+Tenho me dedicado a cursos livres e projetos que envolvem linguagens de programação como Java, Python, HTML, CSS, entre outras.
+
+Neste espaço, vou compartilhar alguns projetos acadêmicos e pessoais, registrando as experiências e aprendizados adquiridos ao longo da minha jornada na área da TI.
